@@ -17,3 +17,4 @@ Outils :
 - Python
 - Playwright
 - Pandas
+- Jupyter
